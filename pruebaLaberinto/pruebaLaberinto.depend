@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763958382 source:d:\programacion\c\pruebalaberinto\main.c
+	<stdio.h>
+	<ctype.h>
+
