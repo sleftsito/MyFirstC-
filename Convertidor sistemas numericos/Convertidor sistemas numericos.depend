@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765141026 source:d:\programacion\c\convertidor sistemas numericos\main.c
+	<stdio.h>
+	<stdlib.h>
+
